@@ -1,3 +1,3 @@
 export default function sampleLibrary() {
-  return 'Hello World!';
+  return "Hello World!";
 }
