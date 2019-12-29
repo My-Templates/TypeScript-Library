@@ -1,6 +1,6 @@
-# @lopatnov/sample-library
+# @my-templates/sample-library
 
-[![NPM version](https://badge.fury.io/js/%40lopatnov%2Fsample-library.svg)](https://www.npmjs.com/package/@lopatnov/sample-library)
+[![NPM version](https://badge.fury.io/js/%40my-templates%2Fsample-library.svg)](https://www.npmjs.com/package/@my-templates/sample-library)
 ![License](https://img.shields.io/github/license/My-Templates/TypeScript-Library)
 [![Build Status](https://travis-ci.org/My-Templates/TypeScript-Library.png?branch=master)](https://travis-ci.org/My-Templates/TypeScript-Library)
 [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40My-Templates%2FTypeScript-Library)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40My-Templates%2FTypeScript-Library)
@@ -9,10 +9,10 @@ The TypeScript library template.
 
 ## Install
 
-[![https://nodei.co/npm/@lopatnov/sample-library.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/@lopatnov/sample-library.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/@lopatnov/sample-library)
+[![https://nodei.co/npm/@my-templates/sample-library.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/@my-templates/sample-library.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/@my-templates/sample-library)
 
 ```shell
-npm install @lopatnov/sample-library
+npm install @my-templates/sample-library
 ```
 
 [Browser](//my-templates.github.io/TypeScript-Library/dist/library.js)
@@ -24,13 +24,13 @@ npm install @lopatnov/sample-library
 ## Import package to the project
 
 ```typescript
-import sampleLibrary from "@lopatnov/sample-library";
+import sampleLibrary from "@my-templates/sample-library";
 ```
 
 or
 
 ```javascript
-var sampleLibrary = require("@lopatnov/sample-library");
+var sampleLibrary = require("@my-templates/sample-library");
 ```
 
 ## package.json

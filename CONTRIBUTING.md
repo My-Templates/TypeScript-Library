@@ -126,7 +126,7 @@ To start making a contribution:
 Happy contributing!
 
 [code-of-conduct]: ./CODE_OF_CONDUCT.md
-[about]: https://lopatnov.github.io/TypeScript-Library/
+[about]: https://my-templates.github.io/TypeScript-Library/
 [wiki]: https://github.com/My-Templates/TypeScript-Library/wiki
 [issues]: https://github.com/my-templates.github.io/TypeScript-Library/issues
 [pull-requests]: https://github.com/my-templates.github.io/TypeScript-Library/pulls
