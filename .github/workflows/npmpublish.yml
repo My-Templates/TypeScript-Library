@@ -39,7 +39,7 @@ jobs:
         with:
           node-version: '12.x'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@my-templates'
+          scope: '@lopatnov'
       - run: npm run configure-gpr
       - run: npm publish --access=public
         env:
