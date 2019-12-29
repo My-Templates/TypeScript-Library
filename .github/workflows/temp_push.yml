@@ -26,4 +26,5 @@ jobs:
       - run: npm run configure-gpr
       - run: npm publish --access=public
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.gpr_token }}
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          //NODE_AUTH_TOKEN: ${{ secrets.gpr_token }}
