@@ -1,6 +1,6 @@
 # Contributions Welcome
 
-Thanks for your interest in contributing to **worker-from-string**! Contributing to open source projects like this one can be a rewarding way to learn, teach, and build experience. Not only that, contributing is a great way to get involved with _social coding_. We are excited to see what amazing contributions you will make, as well as how your contributions will benefit others.
+Thanks for your interest in contributing to **TypeScript-Library**! Contributing to open source projects like this one can be a rewarding way to learn, teach, and build experience. Not only that, contributing is a great way to get involved with _social coding_. We are excited to see what amazing contributions you will make, as well as how your contributions will benefit others.
 
 If you are new to contributing to open source projects, the process can be intimidating. Not to worry! To help ensure both you and the community get the most out of your contributions, we've put together the following guidelines.
 
@@ -71,18 +71,18 @@ If you don't see your idea listed, and you think it fits into the goals of the p
 
 To start making a contribution:
 
-1. `fork` the project repository by clicking the **fork** button on GitHub.![fork](https://help.github.com/assets/images/help/repository/fork_button.jpg) 
+1. `fork` the project repository by clicking the **fork** button on GitHub.![fork](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
 1. `clone` your forked repository (_noob tip: the actual command you type in is everything after the $_):
 
    ```shell
-   $ git clone https://github.com/<YOUR-USERNAME>/worker-from-string
+   $ git clone https://github.com/<YOUR-USERNAME>/TypeScript-Library
    ```
 
 1. Add a new remote that points to the original project so you can sync project changes with your local copy:
 
    ```shell
-   $ git remote add upstream https://github.com/lopatnov/worker-from-string
+   $ git remote add upstream https://github.com/my-templates.github.io/TypeScript-Library
    ```
 
 1. Pull upstream changes into your local repositories `development` branch:
@@ -121,11 +121,12 @@ To start making a contribution:
 
 1. Once the pull request is approved and merged, you can pull the changes from `upstream` to your local repository and delete your extra branch(es).
 
-1. Don't forget to check out more [about] this project  
+1. Don't forget to check out more [about] this project
 
 Happy contributing!
 
-[issues]: https://github.com/lopatnov/worker-from-string/issues
-[pull-requests]: https://github.com/lopatnov/worker-from-string/pulls
 [code-of-conduct]: ./CODE_OF_CONDUCT.md
-[about]: https://lopatnov.github.io/worker-from-string/
+[about]: https://lopatnov.github.io/TypeScript-Library/
+[wiki]: https://github.com/My-Templates/TypeScript-Library/wiki
+[issues]: https://github.com/my-templates.github.io/TypeScript-Library/issues
+[pull-requests]: https://github.com/my-templates.github.io/TypeScript-Library/pulls

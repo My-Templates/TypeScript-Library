@@ -1,4 +1,4 @@
-name: Node.js Package
+name: Publish NPM Package
 
 on:
   release:
@@ -14,6 +14,7 @@ jobs:
           node-version: 12
       - run: npm ci
       - run: npm run build
+      - run: npm test
 
   publish-npm:
     needs: build
@@ -25,7 +26,6 @@ jobs:
         with:
           node-version: '12.x'
           registry-url: 'https://registry.npmjs.org'
-      - run: npm install
       - run: npm publish --access=public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.npm_token }}
@@ -40,9 +40,7 @@ jobs:
           node-version: '12.x'
           registry-url: 'https://npm.pkg.github.com'
           scope: '@lopatnov'
-      - run: npm ci
       - run: npm run configure-gpr
       - run: npm publish --access=public
         env:
-          NODE_AUTH_TOKEN: ${{ secrets.GPR_PAT }}
-          #NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          NODE_AUTH_TOKEN: ${{ secrets.gpr_token }}
