@@ -1,5 +1,5 @@
 function sampleLibrary() {
-    return 'Hello World!';
+    return "Hello World!";
 }
 
 export default sampleLibrary;

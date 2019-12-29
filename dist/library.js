@@ -5,7 +5,7 @@
 }(this, (function () { 'use strict';
 
   function sampleLibrary() {
-      return 'Hello World!';
+      return "Hello World!";
   }
 
   return sampleLibrary;
