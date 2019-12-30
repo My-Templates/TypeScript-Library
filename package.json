@@ -21,11 +21,11 @@
     "dist"
   ],
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/my-templates.github.io/TypeScript-Library.git"
+    "type": "git",    
+    "url": "git+https://github.com/My-Templates/TypeScript-Library.git"
   },
   "bugs": {
-    "url": "https://github.com/my-templates.github.io/TypeScript-Library/issues"
+    "url": "https://github.com/My-Templates/TypeScript-Library/issues"
   },
   "scripts": {
     "build": "rollup -c rollup.config.ts",
