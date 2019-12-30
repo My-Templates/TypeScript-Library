@@ -2,7 +2,6 @@
 
 [![NPM version](https://badge.fury.io/js/%40my-templates%2Fsample-library.svg)](https://www.npmjs.com/package/@my-templates/sample-library)
 ![License](https://img.shields.io/github/license/My-Templates/TypeScript-Library)
-[![Build Status](https://travis-ci.org/My-Templates/TypeScript-Library.png?branch=master)](https://travis-ci.org/My-Templates/TypeScript-Library)
 [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40My-Templates%2FTypeScript-Library)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40My-Templates%2FTypeScript-Library)
 
 The TypeScript library template.
