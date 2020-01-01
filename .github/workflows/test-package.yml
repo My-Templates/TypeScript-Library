@@ -1,4 +1,4 @@
-name: node-package-ci
+name: test-package
 
 on: [push]
 
