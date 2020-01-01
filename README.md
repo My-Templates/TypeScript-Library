@@ -13,6 +13,14 @@
 ![License](https://img.shields.io/github/license/My-Templates/TypeScript-Library)
 
 </div>
+
+<div align="center">
+
+[![build-and-test-package](https://github.com/My-Templates/TypeScript-Library/workflows/build-and-test-package/badge.svg)](https://github.com/My-Templates/TypeScript-Library/tree/master/tests)
+[![publish-npm-package](https://github.com/My-Templates/TypeScript-Library/workflows/publish-npm-package/badge.svg)](https://github.com/My-Templates/TypeScript-Library/releases)
+
+</div>
+
 <div align="center">
 
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-informational)](https://www.patreon.com/lopatnov)
