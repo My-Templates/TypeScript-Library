@@ -1,4 +1,4 @@
-name: Node Package CI
+name: node-package-ci
 
 on: [push]
 
