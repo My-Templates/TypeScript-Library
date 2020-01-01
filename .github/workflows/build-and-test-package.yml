@@ -1,4 +1,4 @@
-name: test-package
+name: build-and-test-package
 
 on: [push]
 
