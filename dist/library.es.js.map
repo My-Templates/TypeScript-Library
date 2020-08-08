@@ -1,1 +1,1 @@
-{"version":3,"file":"library.es.js","sources":["../src/library.ts"],"sourcesContent":["export default function sampleLibrary() {\r\n  return \"Hello World!\";\r\n}\r\n"],"names":[],"mappings":"SAAwB,aAAa;IACnC,OAAO,cAAc,CAAC;CACvB;;;;"}
+{"version":3,"file":"library.es.js","sources":["../src/library.ts"],"sourcesContent":["export default function sampleLibrary() {\r\n  return \"Hello World!\";\r\n}\r\n"],"names":[],"mappings":"SAAwB,aAAa;IACnC,OAAO,cAAc,CAAC;AACxB;;;;"}
