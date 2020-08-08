@@ -1,6 +1,6 @@
 {
   "name": "@my-templates/sample-library",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "Apache-2.0",
   "author": "lopatnov",
   "description": "Demonstrates a sample library template",
@@ -38,19 +38,19 @@
     "access": "public"
   },
   "devDependencies": {
-    "@lopatnov/rollup-plugin-uglify": "^2.1.0",
-    "@types/jest": "^26.0.9",
+    "@lopatnov/rollup-plugin-uglify": "^1.2.1",
+    "@types/jest": "^24.0.25",
     "@types/typescript": "^2.0.0",
-    "jest": "^26.2.2",
-    "jest-config": "^26.2.2",
-    "rollup": "^2.23.1",
+    "jest": "^24.9.0",
+    "jest-config": "^24.9.0",
+    "rollup": "^1.27.14",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-sourcemaps": "^0.6.2",
-    "rollup-plugin-typescript2": "^0.27.2",
-    "terser": "^5.0.0",
-    "ts-jest": "^26.1.4",
-    "typescript": "^3.9.7"
+    "rollup-plugin-sourcemaps": "^0.4.2",
+    "rollup-plugin-typescript2": "^0.25.3",
+    "terser": "^4.4.3",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.4"
   }
 }

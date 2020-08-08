@@ -64,6 +64,12 @@ Change variables:
 
 `npm run test`
 
+## Demo
+
+See, how it's working: [https://runkit.com/lopatnov/sample-library](https://runkit.com/lopatnov/sample-library)
+
+Test it with a runkit: [https://npm.runkit.com/@my-templates/sample-library](https://npm.runkit.com/%40my-templates%2Fsample-library)
+
 ## Rights and Agreements
 
 License [Apache-2.0](https://github.com/My-Templates/TypeScript-Library/blob/master/LICENSE)
