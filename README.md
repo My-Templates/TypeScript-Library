@@ -4,7 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/My-Templates/TypeScript-Library)](https://github.com/My-Templates/TypeScript-Library/issues)
 [![GitHub forks](https://img.shields.io/github/forks/My-Templates/TypeScript-Library)](https://github.com/My-Templates/TypeScript-Library/network)
 [![GitHub stars](https://img.shields.io/github/stars/My-Templates/TypeScript-Library)](https://github.com/My-Templates/TypeScript-Library/stargazers)
-![License](https://img.shields.io/github/license/My-Templates/TypeScript-Library)
+[![License](https://img.shields.io/github/license/My-Templates/TypeScript-Library)](https://github.com/My-Templates/TypeScript-Library/blob/master/LICENSE)
 
 [![build-and-test-package](https://github.com/My-Templates/TypeScript-Library/workflows/build-and-test-package/badge.svg)](https://github.com/My-Templates/TypeScript-Library/tree/master/tests)
 [![publish-npm-package](https://github.com/My-Templates/TypeScript-Library/workflows/publish-npm-package/badge.svg)](https://github.com/My-Templates/TypeScript-Library/releases)
