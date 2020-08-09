@@ -30,11 +30,13 @@ npm install @my-templates/sample-library
 
 ## Import package to the project
 
+### TypeScript
+
 ```typescript
 import sampleLibrary from "@my-templates/sample-library";
 ```
 
-or
+### JavaScript
 
 ```javascript
 var sampleLibrary = require("@my-templates/sample-library");
