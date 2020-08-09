@@ -12,7 +12,7 @@
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-informational)](https://www.patreon.com/lopatnov)
 [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40my-templates%2Fsample-library)](https://twitter.com/intent/tweet?text=I%20want%20to%20share%20TypeScript%20library:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2F%40my-templates%2Fsample-library)
 
-The TypeScript library template.
+The TypeScript library template. Click "Use this template on GitHub".
 
 ## Install
 
