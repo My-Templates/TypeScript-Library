@@ -65,7 +65,7 @@ Change variables:
 ## GitHub publish configurations
 
 - npm_token
-- gpr_token
+- github_token
 
 ## Configure commands
 
