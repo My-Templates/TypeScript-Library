@@ -8,8 +8,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/My-Templates/TypeScript-Library)](https://github.com/My-Templates/TypeScript-Library/stargazers)
 ![GitHub top language](https://img.shields.io/github/languages/top/My-Templates/TypeScript-Library)
 
-[![build-and-test-package](https://github.com/My-Templates/TypeScript-Library/workflows/build-and-test-package/badge.svg)](https://github.com/My-Templates/TypeScript-Library/tree/master/tests)
-[![npm-publish-package](https://github.com/My-Templates/TypeScript-Library/workflows/npm-publish-package/badge.svg)](https://github.com/My-Templates/TypeScript-Library/releases)
+[![Build and Test package](https://github.com/My-Templates/TypeScript-Library/actions/workflows/build-and-test-package.yml/badge.svg)](https://github.com/My-Templates/TypeScript-Library/tree/master/tests)
+[![Publish NPM package](https://github.com/My-Templates/TypeScript-Library/actions/workflows/npm-publish-package.yml/badge.svg)](https://github.com/My-Templates/TypeScript-Library/releases)
 [![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/@my-templates/sample-library)](https://www.npmjs.com/package/@my-templates/sample-library?activeTab=dependencies)
 
 [![Patreon](https://img.shields.io/badge/Donate-Patreon-informational)](https://www.patreon.com/lopatnov)
