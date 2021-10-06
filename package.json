@@ -1,6 +1,6 @@
 {
   "name": "@my-templates/sample-library",
-  "version": "1.1.8",
+  "version": "1.1.4",
   "license": "Apache-2.0",
   "author": "lopatnov",
   "description": "Demonstrates a sample library template",
@@ -30,6 +30,8 @@
   "scripts": {
     "build": "rollup -c rollup.config.ts",
     "watch": "rollup -cw rollup.config.ts",
+    "prepublish": "npm run increment-version",
+    "increment-version": "npm version patch -git-tag-version false -allow-same-version true",
     "configure-npm": "node ./set-registry.js -s https://registry.npmjs.org",
     "configure-gpr": "node ./set-registry.js -s https://npm.pkg.github.com",
     "test": "jest"
