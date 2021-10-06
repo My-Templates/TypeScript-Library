@@ -62,7 +62,12 @@ Change variables:
 - bugs
 - keywords
 
-## commands
+## GitHub publish configurations
+
+- npm_token
+- gpr_token
+
+## Configure commands
 
 `npm run build`
 
@@ -80,4 +85,4 @@ Test it with a runkit: [https://npm.runkit.com/@my-templates/sample-library](htt
 
 License [Apache-2.0](https://github.com/My-Templates/TypeScript-Library/blob/master/LICENSE)
 
-Copyright 2020 Oleksandr Lopatnov
+Copyright 2019–2021 Oleksandr Lopatnov
